@@ -288,5 +288,6 @@ The UI can also be customized by changing:
 - [DFRobot UNIHIKER](https://www.dfrobot.com/)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [WiFiManager](https://github.com/tzapu/WiFiManager)
-- [NTP Pool](https://www.ntppool.org/)#   U N I H I K E R - K 1 0 - S m a r t - M o t i o n - C l o c k  
+- [NTP Pool](https://www.ntppool.org/)
+ 
  
