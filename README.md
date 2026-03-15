@@ -18,7 +18,6 @@ It displays the current time, date, temperature, and humidity with a motion-reac
 - [Upload Instructions](#upload-instructions)
 - [First-Time WiFi Setup](#first-time-wifi-setup)
 - [Code Behavior](#code-behavior)
-- [Configuration Notes](#configuration-notes)
 - [Important Notes](#important-notes)
 - [Useful Links](#useful-links)
 
